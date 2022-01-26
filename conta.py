@@ -1,7 +1,4 @@
-# __ deixa o atributo privado
-# get - GETTERS devolve / @property
-# set - SETTERS recebe / @nome.setter
-# Metodo da class / @staticmethod Chama metodo sem acessa a class!
+# from conta import Conta
 
 class Conta:
 
